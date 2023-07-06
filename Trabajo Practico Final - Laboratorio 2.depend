@@ -1,0 +1,336 @@
+# depslib dependency file v1.0
+1605919602 source:c:\users\mosta\desktop\trabajo practico final - laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas.h"
+	"arboles.h"
+
+1605844114 source:c:\users\mosta\desktop\trabajo practico final - laboratorio 2\producto.c
+	"producto.h"
+
+1605384668 c:\users\mosta\desktop\trabajo practico final - laboratorio 2\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1605840922 source:c:\users\mosta\desktop\trabajo practico final - laboratorio 2\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\mosta\desktop\trabajo practico final - laboratorio 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605499766 source:c:\users\mosta\desktop\trabajo practico final - laboratorio 2\listas.c
+	"listas.h"
+
+1605499766 c:\users\mosta\desktop\trabajo practico final - laboratorio 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605399786 source:c:\users\mosta\desktop\trabajo practico final - laboratorio 2\menu.c
+	"menu.h"
+
+1605396562 c:\users\mosta\desktop\trabajo practico final - laboratorio 2\menu.h
+
+1606085097 source:c:\users\gasto\desktop\trabajo practico final - laboratorio 2\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\gasto\desktop\trabajo practico final - laboratorio 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605384668 c:\users\gasto\desktop\trabajo practico final - laboratorio 2\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1605983232 source:c:\users\gasto\desktop\trabajo practico final - laboratorio 2\listas.c
+	"listas.h"
+
+1605983232 c:\users\gasto\desktop\trabajo practico final - laboratorio 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1606086149 source:c:\users\gasto\desktop\trabajo practico final - laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas.h"
+	"arboles.h"
+
+1606085369 source:c:\users\gasto\desktop\trabajo practico final - laboratorio 2\menu.c
+	"menu.h"
+
+1605396562 c:\users\gasto\desktop\trabajo practico final - laboratorio 2\menu.h
+
+1605983523 source:c:\users\gasto\desktop\trabajo practico final - laboratorio 2\producto.c
+	"producto.h"
+
+1606085097 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605384668 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1606090129 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\listas.c
+	"listas.h"
+
+1605983232 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1606092710 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1606092571 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\menu.c
+	"menu.h"
+
+1606092571 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1605983523 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\producto.c
+	"producto.h"
+
+1606101942 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"listas.h"
+	"arboles.h"
+
+1606101926 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\funciones.c
+	"funciones.h"
+
+1606085097 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605384668 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1606090129 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\listas.c
+	"listas.h"
+
+1605983232 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1606092710 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1606092571 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1606106706 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"listas.h"
+	"arboles.h"
+
+1605983523 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\producto.c
+	"producto.h"
+
+1606106841 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\menu.c
+	"menu.h"
+
+1606106706 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2\trabajo practico final - laboratorio 2\funciones.c
+	"funciones.h"
+
+1606085097 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605384668 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1606106706 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\funciones.c
+	"funciones.h"
+
+1606106706 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"listas.h"
+	"arboles.h"
+
+1605983232 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1606090129 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\listas.c
+	"listas.h"
+
+1606092710 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1606110658 c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1605983523 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\producto.c
+	"producto.h"
+
+1606111655 source:c:\users\gasto\desktop\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\menu.c
+	"menu.h"
+
+1606085097 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605384668 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1606113470 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\funciones.c
+	"funciones.h"
+
+1606106706 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"listas.h"
+	"arboles.h"
+
+1605983232 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1606090129 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\listas.c
+	"listas.h"
+
+1606112309 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1606113682 c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"funciones.h"
+
+1605983523 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\producto.c
+	"producto.h"
+
+1606113766 source:c:\users\mosta\desktop\trabajo_practico_final_-_laboratorio_2_-_intento_dinamico\trabajo_practico_final_-_laboratorio_2 - intento dinamico\trabajo practico final - laboratorio 2\menu.c
+	"menu.h"
+
+1606156629 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\arboles.c
+	"arboles.h"
+
+1605840797 c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1605384668 c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1606179452 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\funciones.c
+	"funciones.h"
+
+1606175243 c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"listas.h"
+	"arboles.h"
+
+1605983232 c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"producto.h"
+
+1606090129 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\listas.c
+	"listas.h"
+
+1606112309 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1606174525 c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	"funciones.h"
+
+1606179676 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\menu.c
+	"menu.h"
+
+1605983523 source:c:\users\mosta\desktop\facultad\programacion ii\tp큦\trababajo practico final\trabajo practico final laboratorio 2 i gaston schiaffino - lucas mostafa\producto.c
+	"producto.h"
+
